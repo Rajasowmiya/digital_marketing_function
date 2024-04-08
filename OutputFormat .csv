@@ -1,0 +1,25 @@
+Date,Campaign Name,AD Spent,No.of Leads,Cost Per Lead,CTR,Link Click,LP Views,member passed,LP Conversion %,,Ad Spent = Available in the input data
+1 Jan (Mon),,2731.6,6,455.2666667,0.51%,,,,17.64%,,No of leads= Result(Input Data)
+2 Jan (Tue),,,,,,,,,,,Cost Per Lead=AD Spent/No.of Leads
+3 Jan (Wed),,,,,,,,,,,CTR = CTR (link click-through rate)(Input Data)
+4 Jan (Thu),,,,,,,,,,,Link Click= Available in the input data
+5 Jan (Fri),,,,,,,,,,,LP Views= Available in the input data
+6 Jan (Sat),,,,,,,,,,,Member passed=(LP Views/Link Click)*100
+7 Jan (Sun),,,,,,,,,,,LP Conversion= (No.of.Leads/LP View)*100
+8 Jan (Mon),,,,,,,,,,,
+9 Jan (Tue),,,,,,,,,,,
+10 Jan (Wed),,,,,,,,,,,
+11 Jan (Thu),,,,,,,,,,,
+12 Jan (Fri),,,,,,,,,,,
+13 Jan (Sat),,,,,,,,,,,
+14 Jan (Sun),,,,,,,,,,,
+15 Jan (Mon),,,,,,,,,,,
+16 Jan (Tue),,,,,,,,,,,
+17 Jan (Wed),,,,,,,,,,,
+18 Jan (Thu),,,,,,,,,,,
+19 Jan (Fri),,,,,,,,,,,
+20 Jan (Sat),,,,,,,,,,,
+21 Jan (Sun),,,,,,,,,,,
+22 Jan (Mon),,,,,,,,,,,
+23 Jan (Tue),,,,,,,,,,,
+24 Jan (Wed),,,,,,,,,,,
